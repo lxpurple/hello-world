@@ -1,3 +1,4 @@
 # hello-world
-just start
-I am Purple!
+hello world!
+I am Purple, a girl interested in coding.
+
